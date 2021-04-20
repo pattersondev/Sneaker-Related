@@ -1,0 +1,3 @@
+-have each activity go for a certain amount of time
+-have the overall farming stop and sleep after a certain amount of time
+-sleep at night automatically (10pm local = sleep)
