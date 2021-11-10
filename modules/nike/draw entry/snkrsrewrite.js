@@ -13,8 +13,8 @@ const cookiesFilePath = 'cookies.json'
 var drawLink = 'https://www.nike.com/launch/t/air-jordan-11-adapt'
 
 var headers;
-var user = 'pattersonrsssam@gmail.com'
-var pass = 'Phoenixsuns14'
+var user = ''
+var pass = ''
 var entryUrl;
 let cookies
 const fakeUserAgent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0'
