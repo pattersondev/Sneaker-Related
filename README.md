@@ -1,1 +1,3 @@
-These are all files that I have created in the past either for my personal use, for a software I started that goes by the name of Purpl, or for clients.
+#Non academic projects
+This is a lot of different projects, many of which were a part of an application I created with some friends.
+Have a look around see if there's anything that interests you... There are some junkfiles in here just beware of that.
