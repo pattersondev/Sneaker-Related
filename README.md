@@ -1,3 +1,4 @@
-# Non academic projects
-This is a lot of different projects, many of which were a part of an application I created with some friends.
-Have a look around see if there's anything that interests you... There are some junkfiles in here just beware of that.
+# Very Old Projects
+All the code that exists in this repository is from way back when (2020 and earlier) when I used to resell sneakers.
+Almost everything in here is a bot, or a script that helped me buy limited shoes across different websites like Nike and any Shopify Site.
+There are also tools in here that farmed Gmail accounts, (what do i mean by that), farming a gmail account was the process of faking human like activity on a gmail account in efforts to increase that accounts score to give you easier to solve captchas. The code in here was proven to work at some point and would take a gmail from a score of .3 (really bad) to .9 (the best) in about a week. Having easier captchas when "botting" would save you lots of time when botting and would make it a lot easier to get the limited shoe or item that you wanted.
