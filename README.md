@@ -14,4 +14,4 @@ Keep in mind, while a lot of this code is "hacky" by nature, none of this was in
 I uploaded this code to showcase my ability to find solutions to problems with hard to find answers, obviously nike wasn't going to tell you how to make a bot for their website right?
 
 # To young sneaker developers
-If you stumble across this code don't expect any of this to work nowadays as I'm sure it doesn't work anymore, I hope if you find this it can lead you in the right direction to the answer needed for your own sneaker bot
+If you stumble across this code don't expect any of this to work nowadays as I'm sure it doesn't work anymore, I hope if you find this it can lead you in the right direction to the answer needed for your own sneaker bot!
