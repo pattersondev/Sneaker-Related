@@ -6,12 +6,12 @@ const { v4: uuidv4 } = require('uuid');
 var { getCode, getName } = require('country-list');
 var states = require('us-state-codes');
 puppeteer.use(StealthPlugin())
-var email = 'pattersonrsssam@gmail.com'
-var password = 'Phoenixsuns14'
+var email = ''
+var password = ''
 const fakeUserAgent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0'
 var firstName = 'bernardino'
 var lastName = 'goozeman'
-var address = '21969 Stonestile Place'
+var address = ''
 var apt = ''
 var city = 'ashburn'
 var zip = '20148'
